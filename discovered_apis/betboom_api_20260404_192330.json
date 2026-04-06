@@ -1,0 +1,93 @@
+{
+  "target": "betboom",
+  "timestamp": "2026-04-04T19:23:30.576146",
+  "base_url": "https://betboom.ru",
+  "total_found": 16,
+  "api_endpoints": [
+    {
+      "url": "https://fonts.googleapis.com/",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://static.mobile-bb.com/d3ac4eb90a9ed4d1e09e30ae44d7f016/various_files",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://site-static2.betboompass.com/api/mf-shop-ui",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://site-static-blue2.betboom.ru/_next/static/chunks/vendor-ui-a5527fed610f9c2c.js",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://fpnpmcdn.net/v<version>/<apiKey>/loader_v<loaderVersion>.js",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://site-static-blue2.betboom.ru/images/paymentPartners/visa-dark.svg?v=49600782",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "/api/fl",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://siteapi.betboom.ru/api/site_api/v1",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://{current_domain}/api",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://vk.com/betboom",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://fp.betboom.ru/web/v\\u003cversion\\u003e/\\u003capiKey\\u003e/loader_v\\u003cloaderVersion\\u003e.js",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://site-static-blue2.betboom.ru/site_js/varioqub/varioqub.js?v=49600782",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "/v2/index.js",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://site-static-blue2.betboom.ru/_next/static/chunks/vendor-analytics-0624ac6a39e9486d.js",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://cdn.targetads.io/websdk/v2/index.js",
+      "method": "GET",
+      "source": "js_analysis"
+    },
+    {
+      "url": "https://github.com/zloirock/core-js/blob/v3.38.1/LICENSE",
+      "method": "GET",
+      "source": "js_analysis"
+    }
+  ],
+  "recommended_next_steps": [
+    "Открыть URL в браузере для анализа структуры ответа",
+    "Использовать curl или Postman для тестирования",
+    "Проверить заголовки авторизации в DevTools"
+  ]
+}

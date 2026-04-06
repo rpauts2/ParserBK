@@ -1,15 +1,29 @@
 ```
+# Cache and temporary files
+.browser-cache/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Environment files
 .env
 .env.local
-.env.*
-.vscode/
-.idea/
+*.env.*
+
+# Logs
 *.log
-*.tmp
-.DS_Store
-Thumbs.db
+
+# Test and coverage
+.coverage
+coverage/
+htmlcov/
+
+# API discovery data (assuming these are generated/output files)
+discovered_apis/
+odds_result.json
+
+# Dependencies (if any virtual env is used)
+.venv/
+venv/
 ```

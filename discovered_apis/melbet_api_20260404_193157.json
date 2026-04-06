@@ -1,0 +1,12 @@
+{
+  "target": "melbet",
+  "timestamp": "2026-04-04T19:31:57.586099",
+  "base_url": "https://melbet.ru",
+  "total_found": 0,
+  "api_endpoints": [],
+  "recommended_next_steps": [
+    "Открыть URL в браузере для анализа структуры ответа",
+    "Использовать curl или Postman для тестирования",
+    "Проверить заголовки авторизации в DevTools"
+  ]
+}
